@@ -73,12 +73,13 @@ Open the terminal and execute:
 ---
 
 ##  Project Structure
+```text
 Nitish-Kumar-ASCII-Art/
 │
 ├── ascii_art.py
 ├── output.bmp
 └── README.md
-
+```
 ---
 
 ##  Learning Outcomes
@@ -95,4 +96,5 @@ This project is submitted as part of the Minor II academic requirement and is cr
 ---
 
  *End of README*
+
 
